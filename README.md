@@ -1,4 +1,4 @@
-![Micro Materials Logo](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/MicroMaterials_Logo_wf2x.png)
+![Micro Materials Logo](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/Micromaterials_Logo_wf2x.png)
 # Optotemp User Manual
 
 ### Contents: 
