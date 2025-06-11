@@ -1,4 +1,4 @@
-![Micro Materials Logo](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/MicroMaterials_Logo_wf2x.png)
+![Micro Materials Logo](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/sensorviewer/MicroMaterials_Logo_wf2x.png)
 # Optotemp User Manual
 
 ### Contents: 
@@ -20,8 +20,8 @@
 1. Download the Sensor Viewer installer file
 ![Download Page]()
 
-2. Find and run the SensorVewerInstaller file and follow the prompts.
-![Installer file](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/Sensorviewer_Installer.png)
+2. Find and run the SensorVewerInstaller file and follow the prompts.  
+![Installer file](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/sensorviewer/Sensorviewer_Installer.png)
 
 3. Open Sensor Viewer
 
@@ -30,7 +30,7 @@
 # Walkthrough
 
 ### The Main screen
-![Sensor viewer main screen](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/Sensorviewer_results.png)
+![Sensor viewer main screen](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/sensorviewer/Sensorviewer_results.png)
 
 On the bottom left you'll see the device status.
 
@@ -39,6 +39,6 @@ The Start button will start taking a live reading of the spectrum every Update P
 ---
 
 ### Settings
-![Settings screen](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/Sensorviewer_settings.png)
+![Settings screen](https://github.com/frsalcce/Optotemp_UserManual/blob/main/pictures/sensorviewer/Sensorviewer_settings.png)
 
 By default, the Optotemp is selected and should auto-initialize. If it doesn't automatically initialize the device, you may need to use the ReInit button. If the ReInit button doesn't work you can try restarting the software.
